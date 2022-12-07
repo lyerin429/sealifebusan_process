@@ -1,0 +1,105 @@
+*{margin:0; padding:0; margin:auto;}
+         #wrap{width:1920px; height:12796px; overflow:hidden;}
+         #title{width:1920px; height:900px;background:url(../img/title_image.png); position:relative;}
+         #title1{top:306px; left:310px; position:absolute;}
+         #title2{top:468px; left:311px; position:absolute;}
+         #info1{top:682px; left:310px; position:absolute;}
+
+         #overview{width:1920px; height:322px; background-color:white; position:relative;}
+         #ovt1{top:96px; left:310px; position:absolute;}
+         #ovt2{top:96px; left:1038px; position:absolute;}
+         #ovd{top:96px; left:492px; position:absolute;}
+
+         #prog{width:1920px; height:804px; background:url(../img/prog_bg.png); position:relative;}
+         #prt1{top:96px; left:310px; position:absolute;}
+         #prt2{top:96px; left:1036px; position:absolute;}
+         #prinfog{top:354px; left:533px; position:absolute;}
+
+         #main{width:1920px; height:3326px; background-color:#f6f7fd; position:relative;}
+         #maint{top:96px; left:310px; position:absolute;}
+         #mainv{top:96px; left:782px; position:absolute;}
+
+         #mst1{top:187px; left:310px; position:absolute;}
+         #mt1{top:247px; left:333px; position:absolute;}
+         #mi1{top:371px; left:329px; position:absolute;}
+
+         #mst2{top:1007px; left:310px; position:absolute;}
+         #mt2{top:1067px; left:333px; position:absolute;}
+         #mi2{top:1195px; left:329px; position:absolute;}
+
+         #mst3{top:1976px; left:310px; position:absolute;}
+         #mt3{top:2035px; left:333px; position:absolute;}
+         #mi3{top:2164px; left:329px; position:absolute;}
+
+         #mst4{top:2881px; left:310px; position:absolute;}
+         #mt4{top:2941px; left:333px; position:absolute;}
+
+         #sub{width:1920px; height:3015px; background-color:#002ed9; position:relative;}
+         #subt{top:96px; left:310px; position:absolute;}
+         #subt1{top:247px; left:310px; position:absolute;}
+         #st1{top:292px; left:310px; position:absolute;}
+         #spimg1{top:369px; left:310px; position:absolute;}
+         #spimg2{top:0px; left:998px; position:absolute;}
+         #subt2{top:729px; left:998px; position:absolute;}
+         #st2{top:774px; left:998px; position:absolute;}
+         #spimg3{top:1065px; left:998px; position:absolute;}
+         #subt3{top:1245px; left:310px; position:absolute;}
+         #st3{top:1290px; left:310px; position:absolute;}
+         #spimg4{top:1953px; left:310px; position:absolute;}
+         #subt4{top:2613px; left:310px; position:absolute;}
+         #st4{top:2658px; left:310px; position:absolute;}
+         #spimg5{top:2307px; left:998px; position:absolute;}
+         #subt5{top:2185px; left:998px; position:absolute;}
+         #st5{top:2230px; left:998px; position:absolute;}
+         #deco1{top:2547px; left:1484px; position:absolute;}
+
+         #guide{width:1920px; height:943px; background-color:#f6f7fd; position:relative;}
+         #dg{top:96px; left:310px; position:absolute;}
+         #ct{top:186px; left:310px; position:absolute;}
+         #cbg{top:246px; left:310px; position:absolute;}
+         #colorlist{list-style:none; width:800px; height:108px; top:259px; left:323px;position:absolute;}
+         #colorlist>li{float:left; margin-right:24px;}
+         #chex{top:396px; left:348px; position:absolute;}
+         #butt{top:511px; left:310px; position:absolute;}
+         #buts{top:571px; left:310px; position:absolute;}
+         #ftt{top:186px; left:1318px; position:absolute;}
+         #fontlist{list-style:none; width:292px; height:573px; top:257px; left:1318px; position:absolute;}
+         #fontlist>li{float:bottom; margin-bottom:60px;}
+
+         #icon{width:1920px; height:876px; background-color:white; position:relative;}
+         #ict{top:96px; left:310px; position:absolute;}
+         #ict1{top:103px; left:430px; position:absolute;}
+         #icgif{top:192px; left:310px; position:absolute;}
+         #idp{top:768px; left:310px; position:absolute;}
+         #iconlist{list-style:none; width:660px; height:399px; top:263px; left:950px; position:absolute;}
+         #iconlist>li{float:bottom; margin-bottom:72px;}
+
+         #darkmode{width:1920px; height:1014px; background-color:#212121; position:relative;}
+         #dkmodet{top:96px; left:310px; position:absolute;}
+         #dkt1{top:104px; left:461px; position:absolute;}
+         #dkimg{top:192px; left:310px; position:absolute;}
+
+         #publish{width:1920px; height:619px; background-color:white; position:relative; overflow:hidden;}
+         #pub{top:96px; left:310px; position:absolute;}
+         #pubt{top:188px; left:310px; position:absolute;}
+         #pubt1{top:248px; left:334px; position:absolute;}
+         #pubimglist{list-style:none; width:1900px; height:420px; top:96px; left:789px; position:absolute;}
+         #pubimglist>li{float:left; margin-right:72px;}
+
+         #process{width:1920px; height:655px; background-color:#f6f7fd; position:relative;}
+         #depro{top:96px; left:310px; position:absolute;}
+         #deprot{top:179px; left:310px; position:absolute;}
+         #deprot1{top:239px; left:334px; position:absolute;}
+         #deprog1{top:88px; left:733px; position:absolute;}
+         #bar1{top:151px; left:730px; position:absolute;}
+         #bar2{top:259px; left:962px; position:absolute;}
+         #bar3{top:367px; left:1195px; position:absolute;}
+         #bar4{top:475px; left:1311px; position:absolute;}
+
+         #epilogue{width:1920px; height:322px; background-color:#002ed9; position:relative;}
+         #epi{top:96px; left:310px; position:absolute;}
+         #epdeco{top:96px; left:492px; position:absolute;}
+         #ept1{top:96px; left:583px; position:absolute;}
+         #ept2{top:96px; left:1038px; position:absolute;}
+
+         html{scroll-behavior: smooth;}

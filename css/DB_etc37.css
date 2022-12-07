@@ -1,0 +1,58 @@
+
+
+
+#title1{position:absolute;top:306px;margin-left:0px;opacity:0}/*무빙전*/
+#title1.on{margin:0;opacity:1;transition:1s; transition-delay:0s;}/*무빙후*/
+#title2{position:absolute;top:468px;margin-left:0px;opacity:0}/*무빙전*/
+#title2.on{margin:0;opacity:1;transition:1s; transition-delay:1s;}/*무빙후*/
+#info1{position:absolute;top:682px;margin-left:0px;opacity:0}/*무빙전*/
+#info1.on{margin:0;opacity:1;transition:1s; transition-delay:2s;}/*무빙후*/
+
+#ovd{position:absolute;top:96px;margin-top:36px;opacity:0}/*무빙전*/
+#ovd.on{margin:0;opacity:1;transition:0.8s; }/*무빙후*/
+#ovt2{position:absolute;top:96px;margin-left:-36px;opacity:0}/*무빙전*/
+#ovt2.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+
+#prt2{position:absolute;top:96px;margin-left:-36px;opacity:0}/*무빙전*/
+#prt2.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#prinfog{position:absolute;top:354px;margin-top:0px;opacity:0}/*무빙전*/
+#prinfog.on{margin:0;opacity:1;transition:1s; transition-delay:0s;}/*무빙후*/
+
+#mt1{position:absolute;top:247px;margin-left:-36px;opacity:0}/*무빙전*/
+#mt1.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#mt2{position:absolute;top:1067px;margin-left:-36px;opacity:0}/*무빙전*/
+#mt2.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#mt3{position:absolute;top:2035px;margin-left:-36px;opacity:0}/*무빙전*/
+#mt3.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#mt4{position:absolute;top:2941px;margin-left:-36px;opacity:0}/*무빙전*/
+#mt4.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+
+#mi1{position:absolute;top:371px;margin-left:0px;opacity:0}/*무빙전*/
+#mi1.on{margin:0;opacity:1;transition:1s; transition-delay:0s;}/*무빙후*/
+#mi2{position:absolute;top:1195px;margin-left:0px;opacity:0}/*무빙전*/
+#mi2.on{margin:0;opacity:1;transition:1s; transition-delay:0s;}/*무빙후*/
+#mi3{position:absolute;top:2164px;margin-left:0px;opacity:0}/*무빙전*/
+#mi3.on{margin:0;opacity:1;transition:1s; transition-delay:0s;}/*무빙후*/
+
+#st1{position:absolute;top:292px;margin-left:-36px;opacity:0}/*무빙전*/
+#st1.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#st2{position:absolute;top:774px;margin-left:-36px;opacity:0}/*무빙전*/
+#st2.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#st3{position:absolute;top:1290px;margin-left:-36px;opacity:0}/*무빙전*/
+#st3.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#st4{position:absolute;top:2658px;margin-left:-36px;opacity:0}/*무빙전*/
+#st4.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+#st5{position:absolute;top:2230px;margin-left:-36px;opacity:0}/*무빙전*/
+#st5.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+
+#pubt1{position:absolute;top:248px;margin-left:-36px;opacity:0}/*무빙전*/
+#pubt1.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+
+
+#deprot1{position:absolute;top:239px;margin-left:-36px;opacity:0}/*무빙전*/
+#deprot1.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
+
+#epdeco{position:absolute;top:96px;margin-top:36px;opacity:0}/*무빙전*/
+#epdeco.on{margin:0;opacity:1;transition:0.8s; }/*무빙후*/
+#ept2{position:absolute;top:96px;margin-left:-36px;opacity:0}/*무빙전*/
+#ept2.on{margin:0;opacity:1;transition:0.8s; transition-delay:0s;}/*무빙후*/
